@@ -11,18 +11,15 @@ public class ManageDemand {
     }
 
     public double calculateTotal(List<Order> orders){
-        // Calculate Taxes
+        // To calculate Taxes
         double taxes = 0.0;
-        for (Order order : orders) {
-            double tax = this.tax.calculateTax(order.getCountry());
-            taxes += tax;
-        }
-
-        // Calculate Total
+        // To calculate total Quantity
         double quantities = 0.0;
+
+        //Small refactoring
         for (Order order : orders) {
-            double temp = order.getQuantity();
-            quantities += temp;
+            taxes += this.tax.calculateTax(order.getCountry());
+            quantities += order.getQuantity();
         }
 
         return quantities * taxes;
