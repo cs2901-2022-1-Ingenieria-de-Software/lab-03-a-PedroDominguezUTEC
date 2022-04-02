@@ -1,0 +1,66 @@
+
+Vlab.demand.ManageDemand#calculateTotalForWithAdditionalByCountry(Ljava/util/List;DDD)D´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java (:"2*°
+2´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java" "(ã
+à
+´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java" "(
+orderlab.demand.Order"__id*
+""…
+‚
+´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java" "(
+orderlab.demand.Order"
+__arrayGet*
+
+ordersjava.util.List*
+""*
+7
+1*€
+5´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java' '("¾»
+´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java' '(/
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*!
+
+currCountryjava.lang.String*
+BR2equals(Ljava/lang/Object;)*
+2*á
+
+7´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java#! #(&®«
+´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java#! #(3
+%0java.lang.String"/lab.demand.Order#getCountry()Ljava/lang/String;*
+
+orderlab.demand.Order2getCountry()û
+ø
+´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java# #(4
+currCountryjava.lang.String"__id*
+
+%0java.lang.String¬©
+´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java$ $(,
+%1java.lang.Long".lab.demand.Order#getQuantity()Ljava/lang/Long;*
+
+orderlab.demand.Order2getQuantity()¾»
+´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java% %((
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*!
+
+currCountryjava.lang.String*
+PE2equals(Ljava/lang/Object;)*
+2
+5*ü
+1´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java- -("¿
+´
+©C:/Francisco/OneDrive - UNIVERSIDAD DE INGENIERIA Y TECNOLOGIA/UTEC/UTEC CS/2022-I/Ingenieria-de-software-I/Laboratorios/lab03/src/main/java/lab/demand/ManageDemand.java- -("
+"":
+ordersjava.util.List:
+"":
+"":
+""B
+lab.demand.ManageDemand
